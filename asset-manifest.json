@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kyojin7/movie_app/static/css/main.73536894.chunk.css",
+    "main.js": "/kyojin7/movie_app/static/js/main.5a4e0c3b.chunk.js",
+    "main.js.map": "/kyojin7/movie_app/static/js/main.5a4e0c3b.chunk.js.map",
+    "runtime-main.js": "/kyojin7/movie_app/static/js/runtime-main.9d0483fc.js",
+    "runtime-main.js.map": "/kyojin7/movie_app/static/js/runtime-main.9d0483fc.js.map",
+    "static/js/2.cb565901.chunk.js": "/kyojin7/movie_app/static/js/2.cb565901.chunk.js",
+    "static/js/2.cb565901.chunk.js.map": "/kyojin7/movie_app/static/js/2.cb565901.chunk.js.map",
+    "static/js/3.1464d72e.chunk.js": "/kyojin7/movie_app/static/js/3.1464d72e.chunk.js",
+    "static/js/3.1464d72e.chunk.js.map": "/kyojin7/movie_app/static/js/3.1464d72e.chunk.js.map",
+    "index.html": "/kyojin7/movie_app/index.html",
+    "static/css/main.73536894.chunk.css.map": "/kyojin7/movie_app/static/css/main.73536894.chunk.css.map",
+    "static/js/2.cb565901.chunk.js.LICENSE.txt": "/kyojin7/movie_app/static/js/2.cb565901.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0483fc.js",
+    "static/js/2.cb565901.chunk.js",
+    "static/css/main.73536894.chunk.css",
+    "static/js/main.5a4e0c3b.chunk.js"
+  ]
+}
